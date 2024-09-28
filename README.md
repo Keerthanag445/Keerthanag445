@@ -3,12 +3,19 @@
 <h3 align="center">Emerging back-end developer with a strong believe in continuous learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KfQBzHE-UQ9GZDpiJU0K9GnO_GDocAM-0u5P7o-IPODPkieCWrawoMOr8rnDCKDfu0k&usqp=CAU">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanag445&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanag445" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthanag445" alt="keerthanag445" /></a> </p>
 
+- Hi,I'm **a final year undergraduate student in computer science at PSGRKCW**
+
+- 🌱 I,m **currently a mentee @spotknack learning back-end development.**
+
+- 💬 Ask me about **backend**
+
 - 📫 How to reach me **keerthanagovindrj@gmail.com**
+
+- ⚡ Fun fact **Coder by day, Netflix user by night.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
