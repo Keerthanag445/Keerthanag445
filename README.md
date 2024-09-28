@@ -1,7 +1,7 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png)
 <h1 align="center">Hi 👋, I'm Keerthana Govindarajn</h1>
 <h3 align="center">Emerging back-end developer with a strong believe in continuous learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KfQBzHE-UQ9GZDpiJU0K9GnO_GDocAM-0u5P7o-IPODPkieCWrawoMOr8rnDCKDfu0k&usqp=CAU">
+<img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KfQBzHE-UQ9GZDpiJU0K9GnO_GDocAM-0u5P7o-IPODPkieCWrawoMOr8rnDCKDfu0k&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanag445&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanag445" /> </p>
 
